@@ -35,7 +35,6 @@
 + Remember: we do not and cannot provide legal advice. Neither are we a substitute for the work of a law firm or an attorney. 
 
 ## Getting Started<a name="getting_started"></a>
-
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
@@ -99,7 +98,6 @@ The application will now be running on https://localhost:8080/
 /models     : Data structures and methods to access them <br>
 
 ## Contributing<a name="contributing"></a>
-
 1. Fork it (<https://github.com/kylelobo/LegoDoc/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
@@ -107,7 +105,6 @@ The application will now be running on https://localhost:8080/
 5. Create a new Pull Request
 
 ## Authors<a name="authors"></a>
-
 + [Calden Rodrigues](https://github.com/caldenrodrigues) <br>
 + [Chaitanyakrishna Dukkipaty](https://github/chaitanyadukkipaty) <br>
 + [Kyle Lobo](https://github.com/kylelobo) <br>

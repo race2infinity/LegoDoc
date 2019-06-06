@@ -55,7 +55,7 @@ A step by step series of examples that tell you how to get a development env run
 
 Cloning the repo
 ```
-$ git clone https://github.com/chaitanyadukkipaty/LegoDoc.git
+$ git clone https://github.com/kylelobo/LegoDoc.git
 ```
 Installing the dependencies
 ```

@@ -20,7 +20,7 @@
 + [Getting Started](#getting_started)
 + [Limitations](#limitations)
 + [Future Scope](#future_scope)
-+ [File Structure](#file_structure)
++ [Codebase Structure](/CODEBASE_STRUCTURE.md)
 + [Contributing](#contributing)
 + [Authors](#authors)
 
@@ -92,11 +92,6 @@ The application will now be running on https://localhost:8080/
 + A GitHub type pull request / issues feature
 + Users being able to comment on the documents
 
-## File Structure <a name="file_structure"></a>
-/server.js  : Main server code <br>
-/web/lego  : Website code <br>
-/models     : Data structures and methods to access them <br>
-
 ## Contributing<a name="contributing"></a>
 1. Fork it (<https://github.com/kylelobo/LegoDoc/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
@@ -105,9 +100,9 @@ The application will now be running on https://localhost:8080/
 5. Create a new Pull Request
 
 ## Authors<a name="authors"></a>
-+ [Calden Rodrigues](https://github.com/caldenrodrigues) <br>
-+ [Chaitanyakrishna Dukkipaty](https://github/chaitanyadukkipaty) <br>
-+ [Kyle Lobo](https://github.com/kylelobo) <br>
-+ [Roshan James](https://github.com/sephiroth7712) <br>
++ [Calden Rodrigues](https://github.com/caldenrodrigues)
++ [Chaitanyakrishna Dukkipaty](https://github/chaitanyadukkipaty)
++ [Kyle Lobo](https://github.com/kylelobo)
++ [Roshan James](https://github.com/sephiroth7712)
 
 See also the list of [contributors](https://github.com/kylelobo/LegoDoc/contributors) who participated in this project.

@@ -6,7 +6,7 @@
   [![Status](https://img.shields.io/badge/status-active-green.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/LegoDoc.svg)](https://github.com/kylelobo/LegoDoc/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/LegoDoc.svg)](https://github.com/kylelobo/LegoDoc/pulls)
-  [![License](https://img.shields.io/badge/license-GNU-blue.svg)](LICENSE)
+  [![License](https://img.shields.io/badge/license-GNU-blue.svg)](/LICENSE)
 
 </div>
 
@@ -15,24 +15,24 @@
 <p align="center">Open source platform for sharing legal document templates.</p>
 <p align="center">Currently live on: http://159.65.144.246:8000</p>
 
-# Table of Content
+# Table of Contents
 + [About](#description)
 + [Getting Started](#getting_started)
 + [Limitations](#limitations)
 + [Future Scope](#future_scope)
-+ [Codebase Structure](/CODEBASE_STRUCTURE.md)
-+ [Contributing](#contributing)
++ [Codebase Structure](/.github/CODEBASE_STRUCTURE.md)
++ [Contributing](/.github/CONTRIBUTING.md)
 + [Authors](#authors)
 
 ## About<a name="description"></a>
-+ LegoDoc is a platform for downloading / customizing contracts and other legal document templates which are curated by the people.
-+ Our mission is to make these templates freely available for everyone, while in the process making them easier to customize and use.
-+ Any registered user can upload or write a new document.
-+ Posts will be filtered with the help of feedback (upvotes / downvotes).
-+ Helping people save hundreds, or even thousands of rupees to make an enforceable agreement.
-+ All the documents are free to download, customize and store.
-+ Note that every situation is unique and, if you are unsure of which template to use, we recommend you talk to an attorney.
-+ Remember: we do not and cannot provide legal advice. Neither are we a substitute for the work of a law firm or an attorney. 
++ LegoDoc is a platform for downloading / customizing contracts and other legal document templates which are curated by the people
++ Our mission is to make these templates freely available for everyone, while in the process making them easier to customize and use
++ Any registered user can upload or write a new document
++ Posts will be filtered with the help of feedback (upvotes / downvotes)
++ Helping people save hundreds, or even thousands of rupees to make an enforceable agreement
++ All the documents are free to download, customize and store
++ Note that every situation is unique and, if you are unsure of which template to use, we recommend you talk to an attorney
++ **Remember:** We do not and cannot provide legal advice. Neither are we a substitute for the work of a law firm or an attorney.
 
 ## Getting Started<a name="getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -86,18 +86,11 @@ The application will now be running on https://localhost:8080/
 + [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## Limitations<a name="limitations"></a>
-+ No mechanism to generate revenue apart from ads.
++ No mechanism to generate revenue apart from ads
 
 ## Future Scope<a name="future_scope"></a>
-+ A GitHub type pull request / issues feature
++ A GitHub-type pull request / issues feature
 + Users being able to comment on the documents
-
-## Contributing<a name="contributing"></a>
-1. Fork it (<https://github.com/kylelobo/LegoDoc/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 ## Authors<a name="authors"></a>
 + [Calden Rodrigues](https://github.com/caldenrodrigues)

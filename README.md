@@ -4,9 +4,9 @@
 
   [![Hackathon](https://img.shields.io/badge/hackathon-Mumbai-orange.svg)](http://mumbaihackathon.in/) 
   [![Status](https://img.shields.io/badge/status-active-green.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/chaitanyadukkipaty/LegoDoc.svg)](https://github.com/chaitanyadukkipaty/LegoDoc/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/chaitanyadukkipaty/LegoDoc.svg)](https://github.com/chaitanyadukkipaty/LegoDoc/pulls)
-  [![License](https://img.shields.io/badge/license-GNU-blue.svg)](LICENSE.md)
+  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/LegoDoc.svg)](https://github.com/kylelobo/LegoDoc/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/LegoDoc.svg)](https://github.com/kylelobo/LegoDoc/pulls)
+  [![License](https://img.shields.io/badge/license-GNU-blue.svg)](LICENSE)
 
 </div>
 
@@ -100,7 +100,7 @@ The application will now be running on https://localhost:8080/
 
 ## Contributing<a name="contributing"></a>
 
-1. Fork it (<https://github.com/chaitanyadukkipaty/LegoDoc/fork>)
+1. Fork it (<https://github.com/kylelobo/LegoDoc/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -113,4 +113,4 @@ The application will now be running on https://localhost:8080/
 + [Kyle Lobo](https://github.com/kylelobo) <br>
 + [Roshan James](https://github.com/sephiroth7712) <br>
 
-See also the list of [contributors](https://github.com/chaitanyadukkipaty/LegoDoc/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/kylelobo/LegoDoc/contributors) who participated in this project.
